@@ -45,6 +45,7 @@ Advanced University and proffesional level courses on ZK.
 - [Introduction to Elliptic curves](https://www.youtube.com/playlist?list=PLYpVTXjEi1oe1OeAllJpNhFoI4B7Ws8Yl)
 - [BIU winter school Bilinear pairings in cryptography](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw2V2Wpf4MpwtSJvLvZo1ADB)
 - [BIU winter school: Advances in MPC](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw00U0jMSgAZJrpIKG-m_0gH)
+- [BIU winter school: Advances in secure computation](https://www.youtube.com/playlist?list=PL8Vt-7cSFnw1F7bBFws2kWA-7JVFkqKTy)
 - [Foundations of Block chains - Tim Roughgarden](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
 - [BLockchain and money MIT 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 - [DEFI MOOC](https://www.youtube.com/playlist?list=PLS01nW3RtgopJOtsMVOK3N7n7qyNMPbJ_)
