@@ -13,6 +13,7 @@ renderers = ["html"]
 [output.html]
 curly-quotes = true
 git-repository-url = "https://github.com/krakhit/test"
+edit-url-template = " https://github.com/krakhit/test/edit/master/{path}"
 
 [output.html.print]
 page-break = false
